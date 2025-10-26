@@ -1,0 +1,10 @@
+For this project, I built an intelligent pirate agent for the Treasure Hunt game using deep Q-learning. The goal was to train the pirate to find the treasure while navigating through a maze full of obstacles. I started with some provided code that handled the maze environment and the game's memory system. 
+My main task was to complete the Q-training algorithm in the Jupyer Notebook. That part of the code is what teaches the pirate how to move -- choosing when to explore new paths or stick with what's already working. Over time, it learns the best way to reach the treasure efficiently. 
+
+This project tied together everything we learned in the course about artificial intelligence and reinforcement learning: It showed me how computer scientists use algorithms and data to make systems "learn" and improve through experience. What I like about this field is how problem-solving always starts by breaking a big challenge into smaller, manageable steps.
+In this case, that meant figuring out how to represent the maze as states, define possible actions, and then adjust the model's behavior based on rewards and penalties. Once you start thinking like a computer scientist, every problem becomes a system you can model, test, and improve.
+
+Working on this project also reminded me that ethics play a big part in computer science. Whether it's a game or a real world AI system, the technology we build affects people. It's important to make sure algorithms are fair, transparent, and don't cause harm. Even though this was a game, I tried ot think about how these same ideas apply in bigger contexts - like
+ensuring an AI system doesn't favor certain outcomes unfairly or misuse data. As computer scientists, we have responsibility to build tools that help people, not hurt them.
+
+Overall, this project was a great way to see how reinforcement learning can be applied to real problems. It was rewarding to watch the pirate agent go from clueless wandering to efficiently finding the treasure on its own. That progress showed how powerful AI can be when it's designed thoughtfully and trainged the right way.
